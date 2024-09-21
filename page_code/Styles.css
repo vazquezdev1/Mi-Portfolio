@@ -1,3 +1,9 @@
-p {
-    background-color: red;
+body {
+    font-family: "Open Sans", sans-serif;
+    color: #FFFFFF;
+    background-color: #464646;
+}
+
+h1 {
+    font-family: "Inter", sans-serif;
 }
