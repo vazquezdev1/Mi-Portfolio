@@ -1,9 +1,14 @@
-body {
+html {
     font-family: "Open Sans", sans-serif;
     color: #FFFFFF;
     background-color: #464646;
 }
 
+#Menu {
+    font-family: "Open Sans";
+    font-size: 15px;
+}
+
 h1 {
-    font-family: "Inter", sans-serif;
+    font-family: "Inter";
 }
